@@ -1,4 +1,4 @@
-Diese Programm dient dazu, eine eigene Stack Klasse zu bauen mit allen Funktionen. 
+Dieses Programm dient dazu, eine eigene Stack Klasse zu bauen mit allen Funktionen. 
 Diese Teste ich dann gegen die vorgefertige Klasse Stack. 
 
 Dazu teste ich die selbstgebaute Klasse mit Unit Test mit der Triple AAA Methode. 
